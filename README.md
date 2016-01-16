@@ -1,2 +1,0 @@
-# Pratise-of-Javascript
-  # no 
